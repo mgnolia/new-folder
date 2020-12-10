@@ -54,7 +54,7 @@ namespace verry_simple_example
         private void timer1_Tick(object sender, EventArgs e)
         {
             //내가 지정한 인터벌(interval)에 한번씩 동작
-            //여기에선 1000ms에 한 번 동작
+            //여기에선 1000ms에 한 번 동작!
             label_second.Text = countTime.ToString();
             countTime++;
 
