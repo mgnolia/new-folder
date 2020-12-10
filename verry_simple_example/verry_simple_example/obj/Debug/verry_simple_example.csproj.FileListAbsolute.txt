@@ -1,0 +1,10 @@
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.csprojAssemblyReference.cache
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.Form1.resources
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.Properties.Resources.resources
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.csproj.GenerateResource.cache
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.csproj.CoreCompileInputs.cache
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\bin\Debug\verry_simple_example.exe.config
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\bin\Debug\verry_simple_example.exe
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\bin\Debug\verry_simple_example.pdb
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.exe
+D:\new_folder_swh\new-folder\verry_simple_example\verry_simple_example\obj\Debug\verry_simple_example.pdb
