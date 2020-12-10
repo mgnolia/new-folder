@@ -1,0 +1,10 @@
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\bin\Debug\sample_woohyuk_son.exe.config
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\bin\Debug\sample_woohyuk_son.exe
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\bin\Debug\sample_woohyuk_son.pdb
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.csprojAssemblyReference.cache
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.Form1.resources
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.Properties.Resources.resources
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.csproj.GenerateResource.cache
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.csproj.CoreCompileInputs.cache
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.exe
+D:\new_folder_swh\new-folder\sample_woohyuk_son\sample_woohyuk_son\obj\Debug\sample_woohyuk_son.pdb
