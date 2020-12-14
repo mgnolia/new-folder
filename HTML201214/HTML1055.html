@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    
+  <!-- video-js 사용하기 위해 필요한 것-->
+  <link rel="stylesheet" 
+  href="https://vjs.zencdn.net/7.2.3/video-js.css"/>
+  <script src="https://vjs.zencdn.net/7.2.3/video.js">
+  </script>
+  <!-- video-js 사용하기 위해 필요한 것-->
+</head>
+
+<body>
+    <audio src="audio_fe4d3bcac9.mp3" controls></audio>
+    <audio src="./audio_fe4d3bcac9.mp3" controls></audio>
+
+    <video src="Forest - 49981.mp4" controls></video>
+    <!-- 여러가지 확장자에 대비(오디오 태그와 동일)-->
+    <video src="Forest - 49981.mp4" controls autoplay muted></video>
+
+    <h1>video.js 활용</h1>
+    <video width="640" height="580" controls class="video-js" data-setup="{}">
+        <source src="Wildlife.mp4" type="video/mp4">
+        <source src="Wildlife.webm" type="video/webm">
+    </video>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wwVVGJBW6GI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+
+</html>
