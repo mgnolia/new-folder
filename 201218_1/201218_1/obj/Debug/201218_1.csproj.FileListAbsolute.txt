@@ -1,0 +1,7 @@
+D:\SWH\new-folder\201218_1\201218_1\bin\Debug\201218_1.exe.config
+D:\SWH\new-folder\201218_1\201218_1\bin\Debug\201218_1.exe
+D:\SWH\new-folder\201218_1\201218_1\bin\Debug\201218_1.pdb
+D:\SWH\new-folder\201218_1\201218_1\obj\Debug\201218_1.csprojAssemblyReference.cache
+D:\SWH\new-folder\201218_1\201218_1\obj\Debug\201218_1.csproj.CoreCompileInputs.cache
+D:\SWH\new-folder\201218_1\201218_1\obj\Debug\201218_1.exe
+D:\SWH\new-folder\201218_1\201218_1\obj\Debug\201218_1.pdb
